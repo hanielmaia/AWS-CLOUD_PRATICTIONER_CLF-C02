@@ -1,4 +1,4 @@
-### Este repo é dedicado aos meus estudos para a certificação AWS Certified Cloud Practitioner, com meus resumos dos principais conceitos da Amazon Web Services. Este repositório serve tanto como base de conhecimento pessoal quanto como registro da minha jornada rumo à certificação. Sinta-se à vontade para contribuir, ou utilizar este material nos seus próprios estudos! 
+### Este repositório é dedicado aos meus estudos para a certificação AWS Certified Cloud Practitioner, com meus resumos dos principais conceitos da Amazon Web Services. Tem como intuito tanto como base de conhecimento pessoal quanto como registro da minha jornada rumo à certificação. Sinta-se à vontade para contribuir, ou utilizar este material nos seus próprios estudos! 
 
 ## O conteúdo inclui tópicos como:
 
