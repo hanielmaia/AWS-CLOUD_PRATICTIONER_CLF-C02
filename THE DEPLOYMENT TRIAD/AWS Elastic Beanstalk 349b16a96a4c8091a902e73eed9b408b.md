@@ -1,0 +1,4 @@
+# AWS Elastic Beanstalk
+
+- ⭐️ O AWS Elastic Beanstalk é um serviço de Plataforma como Serviço (PaaS) onde você simplesmente faz o upload do código da sua aplicação web (em Java, Python, Node.js, etc.) e a AWS lida automaticamente com toda a configuração da infraestrutura, incluindo balanceamento de carga, escalabilidade e monitoramento de saúde dos servidores (EC2) que rodam nos bastidores.
+- **⭐️ Dica para o Exame:** Procure por desenvolvedores que "**só querem fazer o upload do código**" do aplicativo e "**não querem se preocupar em montar a infraestrutura**", mas que ainda desejam manter o "**controle total**" sobre os servidores subjacentes caso precisem acessar (diferente do Lambda, onde você não tem acesso ao servidor).

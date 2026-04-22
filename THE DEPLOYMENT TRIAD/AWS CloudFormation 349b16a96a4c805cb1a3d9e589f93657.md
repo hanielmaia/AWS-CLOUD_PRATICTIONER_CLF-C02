@@ -1,0 +1,4 @@
+# AWS CloudFormation
+
+- ⭐️ O AWS CloudFormation é o serviço nativo de Infraestrutura como Código (IaC) da AWS, permitindo que você escreva arquivos de texto (templates em JSON ou YAML) para modelar, provisionar e gerenciar dezenas ou centenas de recursos da AWS de forma simultânea, garantindo que sua arquitetura seja construída exatamente da mesma maneira toda vez.
+- **⭐️ Dica para o Exame:** Se a questão falar sobre "**provisionar infraestrutura de forma automatizada e repetível**", "**usar templates JSON/YAML**" ou "**replicar o ambiente** de produção idêntico em outra região", a resposta é sempre CloudFormation.
