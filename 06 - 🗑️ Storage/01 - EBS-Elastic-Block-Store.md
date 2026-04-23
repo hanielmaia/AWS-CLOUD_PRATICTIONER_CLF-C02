@@ -1,0 +1,3 @@
+# EBS-Elastic-Block-Store
+
+⭐️ O Amazon EBS fornece volumes de armazenamento em bloco de alto desempenho e durabilidade para serem usados com o Amazon EC2. Ele funciona como um disco rígido virtual que você anexa à sua instância; funcionando exatamente como o HD ou SSD do seu computador onde você instala o Windows/Linux e armazena bancos de dados que exigem rapidez extrema. A principal característica é que os dados são replicados automaticamente dentro de sua Zona de Disponibilidade para protegê-lo contra falhas de hardware, e o volume pode persistir independentemente da vida útil da instância.

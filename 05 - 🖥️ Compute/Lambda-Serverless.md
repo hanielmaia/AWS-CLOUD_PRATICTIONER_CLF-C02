@@ -1,0 +1,3 @@
+# Lambda-Serverless
+
+⭐️ O AWS Lambda é um serviço de computação Serverless (sem servidor) que permite executar código sem que você precise gerenciar, configurar ou atualizar servidores físicos ou virtuais. Diferente do EC2, onde a máquina fica ligada esperando trabalho, o Lambda é baseado em eventos: ele "acorda", executa sua função em resposta a um gatilho (como o upload de uma foto no S3 ou uma requisição via API) e "morre" logo em seguida. A maior vantagem prática é o custo e a escalabilidade, já que você paga apenas pelo tempo de execução (em milissegundos) e o serviço escala automaticamente de zero a milhares de execuções simultâneas sem qualquer intervenção manual.

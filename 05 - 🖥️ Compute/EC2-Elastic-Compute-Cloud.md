@@ -1,0 +1,3 @@
+# EC2-Elastic-Compute-Cloud
+
+⭐️ O Amazon EC2 é o serviço de infraestrutura da AWS que permite alugar servidores virtuais (instâncias) de forma escalável, funcionando como um computador na nuvem onde você tem controle total sobre o sistema operacional e os recursos de hardware. Ele utiliza AMIs como moldes para criar máquinas rapidamente, armazena dados em volumes EBS (seus HDs virtuais) e utiliza Security Groups como firewalls para controlar o tráfego, permitindo que você aumente ou diminua a capacidade de processamento conforme a demanda e pague apenas pelo que utilizar por hora ou segundo.

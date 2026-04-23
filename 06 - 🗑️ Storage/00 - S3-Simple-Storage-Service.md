@@ -1,0 +1,3 @@
+# AWS S3
+
+⭐️ O Amazon S3 funciona como um armazém digital infinito e superseguro, onde você guarda arquivos (como fotos, vídeos e backups) ou sites estáticos dentro de "baldes" chamados Buckets S3, em vez de pastas tradicionais. Ele é extremamente confiável e barato porque você não precisa gerenciar discos rígidos ou servidores; basta fazer o upload e cada arquivo ganha um endereço web único para ser acessado de qualquer lugar. Na prática, ele é perfeito tanto para servir as imagens de um aplicativo quanto para guardar documentos importantes por anos, permitindo que você pague apenas pelo espaço que ocupar e escolha planos mais baratos para arquivos que raramente serão abertos.

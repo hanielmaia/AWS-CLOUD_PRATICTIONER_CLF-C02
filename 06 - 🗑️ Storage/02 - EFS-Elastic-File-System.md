@@ -1,0 +1,3 @@
+# EFS-Elastic-File-System
+
+⭐️ O Amazon EFS é um sistema de arquivos gerenciado, escalável e totalmente elástico que utiliza o protocolo NFS (Network File System). Ele permite que centenas ou milhares de instâncias EC2, servidores locais ou contêineres acessem os mesmos dados simultaneamente, crescendo ou diminuindo automaticamente conforme você adiciona ou remove arquivos, sem a necessidade de provisionar armazenamento antecipadamente. Pense como se fosse uma pasta compartilhada gigante.
