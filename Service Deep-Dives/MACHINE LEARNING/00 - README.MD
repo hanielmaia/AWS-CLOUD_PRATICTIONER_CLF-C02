@@ -1,0 +1,3 @@
+# O QUE É MACHINE LEARNING?
+
+**Machine Learning (aprendizado de máquina) é uma área da inteligência artificial em que sistemas aprendem padrões a partir de dados, sem precisar ser programados com regras fixas para cada situação. Em vez de dizer exatamente o que o computador deve fazer, você fornece exemplos (dados), e o modelo aprende sozinho a tomar decisões ou fazer previsões, como reconhecer imagens, recomendar produtos ou detectar fraudes. Quanto mais dados relevantes e bem organizados ele recebe, melhor tende a ficar seu desempenho ao longo do tempo.**
