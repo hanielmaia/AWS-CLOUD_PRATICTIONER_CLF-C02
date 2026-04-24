@@ -1,0 +1,3 @@
+# O QUE SÃO CLASSES DO S3?
+
+As classes de armazenamento do Amazon S3 são diferentes “níveis” de custo e desempenho para guardar arquivos, escolhidos conforme a frequência de acesso e a necessidade de disponibilidade dos dados. Por exemplo, o S3 Standard é ideal para dados acessados com frequência; o Standard-IA (Infrequent Access) é mais barato para arquivos pouco acessados; o One Zone-IA reduz custo ao armazenar em apenas uma zona; o Glacier e o Glacier Deep Archive são voltados para arquivamento de longo prazo com acesso mais lento e muito mais barato; e o Intelligent-Tiering move automaticamente os dados entre classes com base no uso. A ideia é otimizar custos sem perder durabilidade, usando a classe certa para cada tipo de dado.
