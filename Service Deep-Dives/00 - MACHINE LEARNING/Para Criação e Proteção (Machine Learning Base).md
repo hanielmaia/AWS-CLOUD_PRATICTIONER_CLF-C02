@@ -2,4 +2,4 @@
 
 ⭐️ **Amazon SageMaker:** É a plataforma completa para desenvolvedores e cientistas de dados construírem, treinarem e implantarem seus próprios modelos de Machine Learning do zero, de forma rápida e em escala.
 
-⭐️ **Amazon Macie:** (Como vimos na área de segurança) É um serviço de segurança que usa Machine Learning e reconhecimento de padrões para descobrir e proteger dados confidenciais na AWS.
+⭐️ **Amazon Macie:** (Como vimos na área de segurança) É um serviço de segurança da AWS focado em proteger dados sensíveis armazenados no S3, usando machine learning para identificar automaticamente informações como dados pessoais (PII), números de cartão de crédito e outras informações confidenciais. Ele analisa o conteúdo dos arquivos, classifica os dados e gera alertas quando detecta riscos, como permissões incorretas ou exposição indevida. Além disso, ajuda no cumprimento de normas de segurança e privacidade, permitindo que você tenha mais controle e visibilidade sobre seus dados, reduzindo riscos de vazamento e problemas legais.

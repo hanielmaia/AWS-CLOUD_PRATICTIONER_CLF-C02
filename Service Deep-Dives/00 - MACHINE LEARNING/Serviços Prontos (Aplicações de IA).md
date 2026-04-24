@@ -15,3 +15,5 @@ Estes são serviços onde a inteligência já está treinada pela AWS. Você ape
 ⭐️ **Amazon Translate:** É um serviço de tradução automática neural de alta qualidade e rapidez, que traduz textos entre dezenas de idiomas diferentes de forma muito natural.
 
 ⭐️ **Amazon Kendra:** É um serviço de pesquisa corporativa altamente inteligente. Ele permite que seus funcionários façam perguntas em linguagem natural e encontrem respostas precisas espalhadas pelos documentos, manuais e intranets da empresa.
+
+⭐️ **O Amazon Textract:** Serviço da AWS que usa machine learning para extrair automaticamente texto, formulários e tabelas de documentos digitalizados, como PDFs e imagens. Diferente de um OCR básico, ele entende a estrutura do documento, conseguindo identificar campos de formulários (como nome, data, valores) e organizar informações em tabelas de forma estruturada. Isso permite automatizar processos manuais, como leitura de notas fiscais, contratos ou documentos administrativos, reduzindo erros e economizando tempo no processamento de grandes volumes de dados.
