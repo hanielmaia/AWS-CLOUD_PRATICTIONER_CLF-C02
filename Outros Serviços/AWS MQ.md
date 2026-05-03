@@ -1,0 +1,3 @@
+# AWS MQ
+
+⭐️ O Amazon MQ é um serviço gerenciado para corretores de mensagens (message brokers) open-source, como Apache ActiveMQ e RabbitMQ, criado para facilitar a migração de sistemas antigos para a nuvem. Ele assume toda a manutenção, configuração e gerenciamento desses servidores de mensageria, permitindo que aplicações corporativas tradicionais continuem se comunicando e enviando dados entre si de forma assíncrona na AWS sem precisar reescrever seus códigos.

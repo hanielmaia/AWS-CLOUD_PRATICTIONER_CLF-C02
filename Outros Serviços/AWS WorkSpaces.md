@@ -1,0 +1,3 @@
+# AWS WorkSpaces
+
+⭐️ O Amazon WorkSpaces é um serviço de Desktop como Serviço (DaaS) que permite criar computadores virtuais na nuvem (Windows ou Linux) e disponibilizá-los para os usuários finais. Diferente do AppStream (que entrega apenas um programa), o WorkSpaces entrega uma área de trabalho inteira, permitindo que funcionários remotos acessem seu ambiente de trabalho completo, seguro e padronizado a partir de qualquer dispositivo conectado à internet.

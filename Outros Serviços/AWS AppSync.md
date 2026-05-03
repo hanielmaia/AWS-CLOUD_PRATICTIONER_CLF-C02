@@ -1,0 +1,3 @@
+# AWS AppSync
+
+⭐️ O AWS AppSync é um serviço gerenciado que facilita a criação de APIs GraphQL e Pub/Sub, permitindo que aplicativos se conectem a dados de várias fontes (como bancos de dados ou funções Lambda) de forma eficiente. Ele se destaca por gerenciar a sincronização de dados em tempo real entre diferentes dispositivos e oferecer suporte offline, garantindo que o aplicativo continue funcionando sem internet e sincronize as mudanças automaticamente quando a conexão retornar.

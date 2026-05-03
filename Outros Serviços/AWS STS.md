@@ -1,0 +1,3 @@
+# AWS STS
+
+⭐️ O AWS STS (Security Token Service) é um serviço de segurança que permite solicitar credenciais temporárias e de privilégio mínimo para usuários acessarem a sua conta AWS. Em vez de usar chaves de acesso fixas (que podem ser roubadas ou vazadas), o STS gera tokens provisórios que expiram automaticamente em poucas horas, sendo a forma ideal de conceder acesso seguro para sistemas externos ou usuários do seu diretório corporativo autenticados via federação.

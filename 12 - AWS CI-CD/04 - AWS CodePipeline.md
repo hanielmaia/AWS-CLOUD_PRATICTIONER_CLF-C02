@@ -1,0 +1,3 @@
+# AWS CodePipeline
+
+⭐️ O AWS CodePipeline é o serviço de orquestração que unifica todos os passos acima, automatizando todo o ciclo de lançamento de software (seu pipeline de CI/CD). Ele atua como o "maestro" da operação: assim que um desenvolvedor salva uma mudança no código (CodeCommit), o CodePipeline detecta isso automaticamente, envia o código para ser testado e compilado (CodeBuild) e, se tudo der certo, orquestra a entrega dessa nova versão para os servidores através do CodeDeploy, tornando o lançamento de novas funcionalidades rápido e livre de erros manuais.

@@ -1,0 +1,3 @@
+# AWS CodeCommit
+
+⭐️ O AWS CodeCommit é um serviço de controle de versão totalmente gerenciado que hospeda repositórios Git privados e seguros na nuvem da AWS. Ele funciona como uma alternativa corporativa ao GitHub ou GitLab, permitindo que as equipes de desenvolvimento armazenem, gerenciem e colaborem em seus códigos-fonte e documentos de forma criptografada, sem precisar se preocupar em manter, atualizar ou escalar seus próprios servidores de repositório de código.

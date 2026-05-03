@@ -1,0 +1,3 @@
+# AWS SES
+
+⭐️ O Amazon SES (Simple Email Service) é um serviço de envio e recebimento de e-mails baseado em nuvem, altamente escalável e econômico, projetado para o envio de mensagens transacionais, campanhas de marketing e notificações em massa. Ele permite que desenvolvedores integrem recursos de e-mail diretamente em seus aplicativos de forma simples, com a AWS cuidando de toda a infraestrutura complexa nos bastidores (como gerenciamento de reputação de IP, autenticação e filtros de spam) para garantir uma alta taxa de entrega direto na caixa de entrada dos usuários finais, pagando apenas pelo volume que utilizar.

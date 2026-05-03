@@ -1,0 +1,3 @@
+# AWS Cloud9
+
+⭐️ O AWS Cloud9 é um Ambiente de Desenvolvimento Integrado (IDE) baseado em nuvem que permite escrever, executar e depurar códigos diretamente pelo seu navegador web. Ele já vem pré-configurado com as ferramentas essenciais para as linguagens de programação mais populares, possui integração nativa com o terminal da AWS e permite que desenvolvedores compartilhem seu ambiente para programar juntos em tempo real (pair programming).

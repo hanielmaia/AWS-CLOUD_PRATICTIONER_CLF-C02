@@ -1,0 +1,3 @@
+# AWS CodeBuild
+
+⭐️ O AWS CodeBuild é um serviço de integração contínua (CI) totalmente gerenciado que compila o seu código-fonte recém-criado, executa testes automatizados de qualidade e segurança, e produz pacotes de software prontos para implantação. Ele elimina a necessidade de configurar e gerenciar servidores de build próprios (como um servidor Jenkins), escalando de forma automática para processar várias compilações simultaneamente, garantindo que o seu código nunca fique preso em uma fila de espera.

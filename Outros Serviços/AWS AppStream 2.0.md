@@ -1,0 +1,3 @@
+# AWS AppStream 2.0
+
+⭐️ O Amazon AppStream 2.0 é um serviço de streaming de aplicativos totalmente gerenciado que permite entregar aplicações desktop pesadas (como softwares de engenharia 3D ou design) diretamente para o navegador web de qualquer usuário. Ele roda o aplicativo nos servidores da AWS e transmite apenas a tela, garantindo segurança (os dados não saem da AWS) e permitindo que softwares complexos rodem de forma fluida até mesmo em computadores mais antigos.

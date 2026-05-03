@@ -1,0 +1,3 @@
+# AWS Batch
+
+⭐️ O AWS Batch é um serviço projetado para planejar, agendar e executar trabalhos de computação em lote (batch processing) em grande escala. Ele calcula e provisiona dinamicamente a quantidade e o tipo ideal de recursos computacionais (como instâncias EC2) com base nos requisitos do trabalho, eliminando a necessidade de instalar e gerenciar softwares de lote ou clusters de servidores manualmente.

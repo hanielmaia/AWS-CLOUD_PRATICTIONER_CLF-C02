@@ -1,0 +1,3 @@
+# AWS CloudSearch
+
+⭐️ O Amazon CloudSearch é um serviço gerenciado que facilita a configuração e a inserção de um motor de pesquisa rápida em sites ou aplicativos. Ele abstrai a complexidade de criar um sistema de busca do zero, oferecendo recursos prontos e fáceis de plugar, como pesquisa de texto livre, preenchimento automático (autocompletar) e filtros para que você adicione buscas eficientes em catálogos rapidamente.

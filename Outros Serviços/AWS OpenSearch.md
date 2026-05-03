@@ -1,0 +1,3 @@
+# AWS OpenSearch
+
+⭐️ O Amazon OpenSearch Service é uma plataforma robusta e avançada focada em análise de logs interativa, monitoramento de aplicações e buscas complexas. Diferente do CloudSearch, ele vai muito além de procurar palavras em um site, sendo integrado com o OpenSearch Dashboards (antigo Kibana) para permitir que engenheiros criem gráficos visuais em tempo real e investiguem a fundo o que está acontecendo na infraestrutura de TI.

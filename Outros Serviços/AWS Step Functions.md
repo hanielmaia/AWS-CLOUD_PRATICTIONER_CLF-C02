@@ -1,0 +1,3 @@
+# AWS Step Functions
+
+⭐️ O AWS Step Functions é um serviço de orquestração visual que permite combinar e coordenar diversos serviços da AWS em fluxos de trabalho (workflows) passo a passo automatizados. Através de um diagrama visual, você pode desenhar processos complexos definindo regras como "se o processo A falhar, tente novamente" ou "execute B e C ao mesmo tempo", garantindo que aplicações modernas sem servidor funcionem de forma estruturada.

@@ -1,0 +1,3 @@
+# AWS Device Farm
+
+⭐️ O AWS Device Farm é um serviço que permite que desenvolvedores testem seus aplicativos web e móveis simultaneamente em centenas de smartphones e tablets físicos reais hospedados pela AWS. Ele ajuda a identificar bugs e problemas de compatibilidade reproduzindo o ambiente exato do usuário final, seja rodando scripts de testes automatizados ou acessando as telas dos aparelhos de forma manual e remota.

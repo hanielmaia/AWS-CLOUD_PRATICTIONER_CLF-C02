@@ -1,0 +1,3 @@
+# AWS CodeDeploy
+
+⭐️ O AWS CodeDeploy é um serviço de implantação contínua (CD) que automatiza o lançamento e a instalação de novas versões do seu aplicativo em diversos ambientes de computação, como instâncias Amazon EC2, AWS Fargate, funções AWS Lambda ou até mesmo servidores locais (on-premises) da sua empresa. Ele protege a estabilidade do sistema ao liberar as atualizações aos poucos (evitando que tudo caia de uma vez) e permite reverter o sistema rapidamente para a versão anterior caso algum bug crítico seja detectado na nova versão.

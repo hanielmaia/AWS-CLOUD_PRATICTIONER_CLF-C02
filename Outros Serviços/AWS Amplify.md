@@ -1,0 +1,3 @@
+# AWS Amplify
+
+⭐️ O AWS Amplify é um conjunto de ferramentas focado em facilitar e acelerar o desenvolvimento de aplicativos web e móveis (front-end e full-stack) na nuvem. Ele permite integrar facilmente recursos como autenticação de usuários, banco de dados, armazenamento e hospedagem contínua, abstraindo a complexidade de configurar a infraestrutura por trás para que o desenvolvedor foque apenas na criação do aplicativo.

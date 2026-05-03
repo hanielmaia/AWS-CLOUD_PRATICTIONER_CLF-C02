@@ -1,0 +1,3 @@
+# AWS DataSync
+
+⭐️ O AWS DataSync é um serviço online projetado para automatizar, acelerar e proteger a movimentação de grandes volumes de arquivos e dados entre o armazenamento local da sua empresa (como servidores NFS) e a AWS (como S3 ou EFS). Ele cuida de todo o trabalho pesado de transferência, incluindo criptografia em trânsito e validação de integridade, sendo ideal para migrações ou replicação contínua de dados pela internet.

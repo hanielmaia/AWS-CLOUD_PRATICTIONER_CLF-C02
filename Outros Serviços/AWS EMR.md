@@ -1,0 +1,3 @@
+# AWS EMR
+
+⭐️ O Amazon EMR (Elastic MapReduce) é uma plataforma de big data em nuvem que facilita o processamento e a análise de quantidades massivas de dados usando frameworks de código aberto, como Apache Spark e Hadoop. Ele cria clusters escaláveis de servidores em minutos para rodar análises complexas, mineração de dados ou processamento de logs, entregando um alto poder computacional sob demanda para cientistas de dados.

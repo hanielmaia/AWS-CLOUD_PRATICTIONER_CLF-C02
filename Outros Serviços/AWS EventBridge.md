@@ -1,0 +1,3 @@
+# AWS EventBridge
+
+⭐️ O Amazon EventBridge é um barramento de eventos (event bus) sem servidor que facilita a comunicação entre diferentes aplicações e serviços usando dados em tempo real. Ele atua como um "roteador central inteligente", recebendo avisos de que algo aconteceu (ex: "um arquivo foi salvo no S3") e direcionando esse aviso automaticamente para outros serviços agirem em resposta (ex: "acionar um Lambda para processar o arquivo") com base em regras que você define.

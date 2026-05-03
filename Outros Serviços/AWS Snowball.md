@@ -1,0 +1,3 @@
+# AWS Snowball
+
+⭐️ O AWS Snowball é um serviço de transferência de dados offline que utiliza malas/dispositivos físicos super robustos, enviados pela AWS via transportadora, para mover terabytes ou petabytes de dados para dentro ou fora da nuvem. Ele é a solução ideal quando transferir dados massivos pela sua conexão de internet demoraria meses ou seria muito caro, permitindo que você copie tudo na rede local da sua empresa e envie a caixa de volta pelos correios.
