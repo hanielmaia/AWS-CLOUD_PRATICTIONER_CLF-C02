@@ -1,0 +1,3 @@
+# AWS CodeStar
+
+O AWS CodeStar é um serviço da Amazon Web Services projetado para simplificar e acelerar o processo de desenvolvimento de software. Ele facilita a integração de várias ferramentas essenciais para o desenvolvimento, como ambientes de desenvolvimento integrado (IDEs), pipelines de integração contínua/entrega contínua (CI/CD) e ferramentas de gerenciamento de projetos. Com o CodeStar, os desenvolvedores podem configurar rapidamente um ambiente de desenvolvimento completo, permitindo que eles se concentrem na criação de software em vez de lidar com a configuração e integração de várias ferramentas.
