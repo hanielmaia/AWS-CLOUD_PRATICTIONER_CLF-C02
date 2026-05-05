@@ -1,0 +1,3 @@
+# AWS Compute Optimizer
+
+⭐️ O AWS Compute Optimizer é uma ferramenta de recomendação que utiliza Inteligência Artificial (Machine Learning) para analisar o histórico de métricas (como uso de CPU e memória) dos seus servidores e recursos. Com base nessa análise, ele identifica e recomenda trocas exatas de infraestrutura (rightsizing), avisando se você está pagando mais caro por uma máquina superdimensionada (ociosa) ou se está correndo risco de queda por usar uma máquina fraca demais, ajudando a cortar custos desnecessários e melhorar a performance.

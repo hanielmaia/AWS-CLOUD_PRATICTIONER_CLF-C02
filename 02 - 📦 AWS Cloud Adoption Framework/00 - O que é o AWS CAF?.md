@@ -1,0 +1,5 @@
+# AWS Cloud Adoption Framework (AWS CAF)
+
+O AWS CAF é um guia da AWS que ajuda empresas a planejar e executar a adoção da nuvem de forma organizada, alinhando objetivos de negócio com tecnologia, pessoas e processos. Ele estrutura a migração e operação na AWS em seis pilares(ou perspectivas) principais — **negócio, pessoas, governança, plataforma, segurança e operações** — garantindo que a empresa não apenas mova sistemas para a nuvem, mas também esteja preparada para gerenciar, proteger e extrair valor dessa mudança de forma eficiente.
+
+**Para que serve?** Ele serve para garantir que a migração não seja tratada apenas como um "projeto de TI". O CAF ajuda a alinhar a tecnologia com os objetivos de negócios, garantindo que a empresa treine os funcionários, gerencie os riscos, ajuste processos internos e realmente ganhe dinheiro (ou economize) com a nuvem.

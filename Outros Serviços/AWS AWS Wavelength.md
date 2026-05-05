@@ -1,0 +1,3 @@
+# AWS Wavelength
+
+⭐️ O AWS Wavelength é um serviço criado com um único objetivo principal: entregar latência ultrabaixa (tempo de resposta quase instantâneo) para dispositivos conectados em redes 5G. Ele faz isso colocando a infraestrutura de computação e armazenamento da AWS fisicamente dentro dos data centers das operadoras de telecomunicações móveis. Na prova, viu as palavras "Rede 5G", "Operadoras de Telecomunicações" ou "Latência de um dígito de milissegundo" para carros autônomos e jogos online, a resposta é Wavelength.
