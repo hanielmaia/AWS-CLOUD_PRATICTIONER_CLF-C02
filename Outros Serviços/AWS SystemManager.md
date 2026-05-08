@@ -1,0 +1,3 @@
+# AWS SystemManager 
+
+⭐️ O AWS Systems Manager é o painel de controle operacional da AWS que permite visualizar, gerenciar e automatizar tarefas em massa em toda a sua frota de servidores na nuvem e locais (on-premises). Ele elimina a necessidade de acessar máquina por máquina manualmente, permitindo que você execute comandos remotamente com segurança (Run Command), aplique atualizações de segurança em centenas de sistemas operacionais simultaneamente (Patch Manager) e guarde dados de configuração e senhas de forma centralizada (Parameter Store), garantindo controle total e conformidade para a sua infraestrutura.
