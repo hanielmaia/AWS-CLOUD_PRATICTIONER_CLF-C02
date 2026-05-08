@@ -1,0 +1,3 @@
+# AWS Control Tower
+
+⭐️ O AWS Control Tower é o serviço definitivo para configurar e gerenciar de forma automatizada e segura um ambiente AWS composto por múltiplas contas. Ele aplica as melhores práticas de nuvem criando uma "Landing Zone" padronizada e utiliza "Guardrails" (grades de proteção) para impor regras de governança corporativa, garantindo que qualquer nova conta criada pelas equipes da empresa já nasça 100% segura, monitorada e em conformidade com as políticas centrais da organização.
