@@ -1,4 +1,4 @@
-### Este repositório é dedicado aos estudos para a certificação AWS Certified Cloud Practitioner, com meus próprios resumos dos principais conceitos da Amazon Web Services. Serve tanto como base de conhecimento pessoal quanto como registro da minha jornada rumo à certificação. Sinta-se à vontade para contribuir, ou utilizar este material nos seus próprios estudos! Bons estudos!!!
+### Este repositório é dedicado aos estudos para a certificação AWS Cloud Practitioner CLF - C02, com meus próprios resumos dos principais conceitos da Amazon Web Services. Serve tanto como base de conhecimento pessoal quanto como registro da minha jornada, esse projeto me ajudou bastante a revisar conceitos que foram cobrados no exame. Sinta-se à vontade para contribuir, ou utilizar este material nos seus próprios estudos! Bons estudos!!!
 
 ## O conteúdo inclui tópicos como:
 
