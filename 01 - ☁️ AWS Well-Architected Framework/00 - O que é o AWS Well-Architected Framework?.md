@@ -1,0 +1,3 @@
+# AWS Well-Architected Framework
+
+- O AWS Well-Architected Framework serve como um guia de boas práticas para ajudar arquitetos de nuvem e desenvolvedores a construir a infraestrutura mais segura, resiliente, eficiente e de alta performance possível para suas aplicações. Em vez de ser um software, ele é um conjunto de estratégias e perguntas que permitem avaliar se a sua arquitetura na nuvem segue os padrões ideais para o sucesso do negócio. O framework é estruturado em **6 pilares fundamentais** na qual veremos a seguir.
